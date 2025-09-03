@@ -62,7 +62,4 @@ make_graph(tesla_data, tesla_revenue, 'Tesla')
 # ------------------------------
 make_graph(gme_data, gme_revenue, 'GameStop')
 
-# ------------------------------
-# Question 7: Sharing your Assignment Notebook
-# ------------------------------
-print("GitHub/Watson Studio URL: https://example.com")
+
